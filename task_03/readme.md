@@ -1,8 +1,18 @@
 # API Playground
 
-## Setup
+<!-- TOC -->
 
-Clone the project, install the project dependencies and run the application:
+- [Precondition](#precondition)
+- [Setup](#setup)
+- [Execution](#execution)
+- [Scenario](#scenario)
+- [Error(s)](#errors)
+
+<!-- /TOC -->
+
+## Precondition
+
+Clone the project [api-playground](https://github.com/bestbuy/api-playground/), install the project dependencies and run the application:
 
 ```bash
 git clone https://github.com/bestbuy/api-playground/
@@ -12,6 +22,14 @@ npm start
 ```
 
 > Use the node version 8.15.1, this version doesn't show any problems during the installation.
+
+## Setup
+
+Install the project dependencies:
+
+```bash
+npm install
+```
 
 ## Execution
 
