@@ -1,0 +1,7 @@
+# file
+.DS_Store
+settings.json
+
+# folder
+
+node_modules
