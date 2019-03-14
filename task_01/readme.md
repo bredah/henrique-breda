@@ -27,7 +27,7 @@ n/a
 2. Enter the value "5.00"
 3. Choose the category
 
-**Result obtained**:
+**Expected result**:
 
 * The application shows the main screen with the value entered added to the income value.
 
@@ -45,7 +45,7 @@ n/a
 2. Enter the value "5.00"
 3. Choose the category
 
-**Result obtained**:
+**Expected result**:
 
 * The application shows the main screen with the value entered added to the expense value.
 
@@ -62,7 +62,7 @@ Display the balance (incomes and expenses )from the current month.
 
 1. Touch in the balance area
 
-**Result obtained**:
+**Expected result**:
 
 * The application shows the balance from the current month.
 
@@ -82,7 +82,7 @@ Allow to remove an income.
 3. Touch in an income
 4. Touch in the delete (garbage icon)
 
-**Result obtained**:
+**Expected result**:
 
 * The application shows the current balance without the deleted income.
 
@@ -102,7 +102,7 @@ Allow to remove an expense.
 3. Touch in an expense
 4. Touch in the delete (garbage icon)
 
-**Result obtained**:
+**Expected result**:
 
 * The application shows the current balance without the deleted expense.
 
@@ -120,6 +120,6 @@ Display the balance (incomes and expenses) in the specific date.
 2. Touch in the option "Choose date"
 3. Select a date with income and/or expense registered.
 
-**Result obtained**:
+**Expected result**:
 
 * The application shows the balance in the specific date.
