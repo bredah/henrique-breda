@@ -45,7 +45,7 @@ describe("Product", function() {
           expect(res.status).to.be.eql(200);
         });
     });
-    it("Without product id", function() {
+    it("Without parameter", function() {
       productId = '';
       chai
         .request("http://localhost:3030")
